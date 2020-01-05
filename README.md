@@ -12,6 +12,10 @@ with modification into single project instead multiple modules.
 - Unit Testing using Mockk
 
 ## Test Coverage
-To run test coverage: ./gradlew connectedAndroidTest jacocoTestReport
+To run test coverage:  
+``./gradlew connectedAndroidTest jacocoTestReport``
+
+Then can find the report at <project>/app/build/reports/coverage/debug/index.html
+
 
 
